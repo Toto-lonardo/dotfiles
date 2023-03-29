@@ -31,10 +31,17 @@ auto_completion_return_key_behavior = "complete"
 auto_completion_tab_key_behavior = "smart"
 
 #
+[[layers]]
 name = "shell"
 default_position = "top"
 default_height = 30
+[[layers]]
 name = "lang#javascript"
+[[layers]]
+name = "lang#typescript"
+[[layers]]
 name = "colorscheme"
+[[layers]]
 name = "tmux"
+
 
