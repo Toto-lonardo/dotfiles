@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/sallon/.psensor'
+let g:netrw_dirhist_3='/home/sallon'
+let g:netrw_dirhist_2='/home/sallon/develop/gascogne-it/pub-gascoigne-it'
+let g:netrw_dirhist_1='/home/sallon/.config/i3'
